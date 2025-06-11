@@ -53,6 +53,7 @@ This project focuses on cleaning and analyzing sales data using Python and Panda
 - Monitor is the top-selling product with a total sales value of $389.97, making it the most significant contributor to overall revenue.
 - USB-C Cable comes next with $75.93, followed by Webcam and Keyboard, each generating $45.00 in sales.
 - Mouse and Laptop Stand have the lowest sales, with $31.98 and $25.50 respectively, indicating lower consumer interest or possible under-promotion.
+
 These insights highlight an opportunity to focus marketing and stock efforts on high-demand items like Monitors and USB-C Cables, while exploring strategies to boost sales for the lower-performing products.
 
 ---
