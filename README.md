@@ -49,11 +49,14 @@ This project focuses on cleaning and analyzing sales data using Python and Panda
 
 ---
 
-## 💡 Key Insights
+## 🔑 Key Insight – Total Sales by Product
+Monitor stands out as the top-selling product, with total sales reaching close to 380 units, indicating it’s in high demand and likely a primary revenue driver.
 
-- Sales peaked in [Insert Month].
-- [Product X] was the highest-selling item.
-- [City/Region] contributed the most to overall revenue.
+USB-C Cable and Webcam follow, showing moderate sales between 75–80 and 40–45 units respectively, suggesting consistent consumer need.
+
+Products like Keyboard, Mouse, and Laptop Stand had relatively lower sales, with totals ranging from 25 to 35 units, possibly due to lower demand or niche use cases.
+
+This breakdown can help prioritize inventory restocking, promotions, or bundling strategies around high-performing products like Monitors and Cables.
 
 ---
 
