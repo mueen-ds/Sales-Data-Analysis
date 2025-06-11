@@ -50,13 +50,10 @@ This project focuses on cleaning and analyzing sales data using Python and Panda
 ---
 
 ## 🔑 Key Insight – Total Sales by Product
-Monitor stands out as the top-selling product, with total sales reaching close to 380 units, indicating it’s in high demand and likely a primary revenue driver.
-
-USB-C Cable and Webcam follow, showing moderate sales between 75–80 and 40–45 units respectively, suggesting consistent consumer need.
-
-Products like Keyboard, Mouse, and Laptop Stand had relatively lower sales, with totals ranging from 25 to 35 units, possibly due to lower demand or niche use cases.
-
-This breakdown can help prioritize inventory restocking, promotions, or bundling strategies around high-performing products like Monitors and Cables.
+- Monitor is the top-selling product with a total sales value of $389.97, making it the most significant contributor to overall revenue.
+- USB-C Cable comes next with $75.93, followed by Webcam and Keyboard, each generating $45.00 in sales.
+- Mouse and Laptop Stand have the lowest sales, with $31.98 and $25.50 respectively, indicating lower consumer interest or possible under-promotion.
+These insights highlight an opportunity to focus marketing and stock efforts on high-demand items like Monitors and USB-C Cables, while exploring strategies to boost sales for the lower-performing products.
 
 ---
 
