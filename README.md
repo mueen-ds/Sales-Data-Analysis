@@ -45,7 +45,7 @@ This project focuses on cleaning and analyzing sales data using Python and Panda
 
 ## 📸 Sample Visualizations
 
-> ![Bar_Chart](./image/chart.jpg)
+> ![Sales Chart](images/sales_chart.png)
 
 ---
 
