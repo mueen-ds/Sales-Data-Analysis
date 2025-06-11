@@ -1,0 +1,16 @@
+Order ID,Product,Quantity Ordered, Price Each , City
+101,USB-C Cable,2,10.99,Lahore
+102,,1,5.49,Karachi
+103,Mouse,NaN,15.99,lahore
+,Keyboard,1,,ISLAMABAD
+105,Monitor,2,129.99, karachi
+106,Webcam,1,45.0,Lahore
+107,Mouse,2,15.99, karachi
+108,USB-C Cable,3,10.99,LAHORE
+109,Laptop Stand,1,25.50,Lahore
+110,,2,15.99,Karachi
+111,Monitor,1,129.99,Lahore
+112,Mouse,,15.99,karachi
+113,Keyboard,1,45.0, Islamabad
+114,,NaN,5.49,Karachi
+115,USB-C Cable,2,10.99,lahore

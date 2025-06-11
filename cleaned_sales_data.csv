@@ -1,0 +1,10 @@
+order_id,product,quantity_ordered,price_each,city,total_price
+101.0,USB-C Cable,2.0,10.99,Lahore,21.98
+105.0,Monitor,2.0,129.99,Karachi,259.98
+106.0,Webcam,1.0,45.0,Lahore,45.0
+107.0,Mouse,2.0,15.99,Karachi,31.98
+108.0,USB-C Cable,3.0,10.99,Lahore,32.97
+109.0,Laptop Stand,1.0,25.5,Lahore,25.5
+111.0,Monitor,1.0,129.99,Lahore,129.99
+113.0,Keyboard,1.0,45.0,Islamabad,45.0
+115.0,USB-C Cable,2.0,10.99,Lahore,21.98
