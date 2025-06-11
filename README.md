@@ -67,8 +67,12 @@ These insights highlight an opportunity to focus marketing and stock efforts on 
 
 ## 👤 Author
 
-**Mueen Ud Din**  
-Aspiring Data Scientist | Python Enthusiast | Lifelong Learner  
-🔗 [GitHub Profile](https://github.com/mueen-ds)
+**Mueen Ud Din**
+Aspiring Data Scientist | Python Enthusiast | Lifelong Learner
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mueen-ud-din/)
+- [GitHub](https://github.com/mueen-ds)
 
 ---
